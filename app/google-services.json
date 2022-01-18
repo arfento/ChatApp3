@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331214414059",
+    "firebase_url": "https://chatapp-acb0f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatapp-acb0f",
+    "storage_bucket": "chatapp-acb0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331214414059:android:3c2f42dbcdae82d5165eae",
+        "android_client_info": {
+          "package_name": "com.ims.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331214414059-i4g51ao2hmjkb226v0eu8aje42pb4p73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ims.chatapp",
+            "certificate_hash": "68fa96414157f85ec1e1d336d4df1e3867bf0e31"
+          }
+        },
+        {
+          "client_id": "331214414059-ti7g02t873idhr5pdu2e7ln1omnbq9b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7cpUXHfdCsIivE58yuh2qG7iHO-_tqOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331214414059-ti7g02t873idhr5pdu2e7ln1omnbq9b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
